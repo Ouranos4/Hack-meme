@@ -22,4 +22,4 @@ if password==12345678:
     print(
     Fore.GREEN +"░░░╚═╝░░░░╚════╝░░╚═════╝░  ╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚══════╝╚═════╝░  ╚═╝░░╚══╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝")
 else:
-    print("Passwor is false")
+    print("Password is false")
